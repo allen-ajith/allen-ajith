@@ -2,7 +2,7 @@
 
 <p align="center">
  <br/>
- My current interests are Machine learning and Blockchain but I dabble in a bit of Web dev too.
+ My current interests are Machine learning and Quant.
  <br/><br/>
  Check out some of the interesting stuff I've been working on!
  <br/><br/>
