@@ -2,8 +2,6 @@
 
 <p align="center">
  <br/>
- My current interests are Machine learning and Quant.
- <br/><br/>
  Check out some of the interesting stuff I've been working on!
  <br/><br/>
  <img align="center" width="60%" height="auto"; src="https://i.kym-cdn.com/entries/icons/original/000/028/021/work.jpg" />
