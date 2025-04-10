@@ -7,7 +7,5 @@
  <img align="center" width="60%" height="auto"; src="https://i.kym-cdn.com/entries/icons/original/000/028/021/work.jpg" />
  <br/>
  <br/><br/>
- 
-Here are some of my Popular repos ⬇️  
  </samp>
 </p>
