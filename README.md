@@ -1,5 +1,7 @@
 <h1 align="center">Hello.</h1>
 
+<p align="center">I build the tools I wish existed. </p>
+
 <p align="center">
  <br/>
  <br/><br/>
